@@ -24,7 +24,7 @@ function startGame() {
 }
 
 async function setText() {
-	let url = 'http://api.quotable.io/random';
+	let url = 'https://api.quotable.io/random';
 
 	try {
 		const res = await fetch(url);
