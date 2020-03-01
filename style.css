@@ -1,6 +1,8 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	background-color: #010f1b;
+			user-select: none;
+
 }
 .title {
 	text-align: center;
