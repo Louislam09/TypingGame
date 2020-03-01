@@ -35,8 +35,9 @@ body {
 	font-size: larger;
 }
 .typing-box {
+	min-width: 100%;
 	position: relative;
-	left: 10px;
+	width: 100px;
 	background-color: #010f1b;
 	text-align: justify;
 	color: white;
